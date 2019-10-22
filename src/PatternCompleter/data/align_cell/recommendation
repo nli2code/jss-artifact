@@ -1,0 +1,14 @@
+------------------------------------
+CellStyle style = <0>.createCellStyle();
+style.setAlignment(<1>);
+<2>.setCellStyle(style);
+
+<0>  :  workbook  ( Path = new HSSFWorkbook() )  ( Type = org.apache.poi.ss.usermodel.Workbook )
+<1>  :  HorizontalAlignment.CENTER  ( Path = HorizontalAlignment.CENTER )  ( Type = org.apache.poi.ss.usermodel.HorizontalAlignment )
+<2>  :  cell  ( Path = new HSSFWorkbook().createSheet().createRow().createCell() )  ( Type = org.apache.poi.ss.usermodel.Cell )
+
+setCellStyle  :  org.apache.poi.ss.usermodel.Cell.setCellStyle(org.apache.poi.ss.usermodel.CellStyle)
+setAlignment  :  org.apache.poi.ss.usermodel.CellStyle.setAlignment(org.apache.poi.ss.usermodel.HorizontalAlignment)
+createCellStyle  :  org.apache.poi.ss.usermodel.Workbook.createCellStyle()
+CellStyle  :  CellStyle
+------------------------------------

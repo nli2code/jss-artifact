@@ -1,0 +1,13 @@
+
+plugins {
+    id 'java'
+}
+
+dependencies {
+    compileOnly 'org.projectlombok:lombok:1.18.8'
+    annotationProcessor 'org.projectlombok:lombok:1.18.8'
+    compileOnly group: 'org.jetbrains', name: 'annotations', version: '17.0.0'
+    compile name: 'parsemis'
+    compile project(':common')
+    compile project(':knowledge-graph')
+}

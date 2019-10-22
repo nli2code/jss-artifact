@@ -1,0 +1,15 @@
+apply plugin: 'idea'
+
+allprojects {
+    group 'cn.edu.pku.hcst'
+    version '1.0'
+
+    repositories {
+        mavenCentral()
+        mavenLocal()
+        flatDir {
+            dirs '../lib'
+        }
+    }
+}
+

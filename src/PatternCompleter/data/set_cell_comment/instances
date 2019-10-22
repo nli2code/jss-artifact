@@ -1,0 +1,21 @@
+Sheet sheet = wb.createSheet();
+Row row = sheet.createRow(3);
+cell.setCellValue("F4");
+comment.setAuthor("Apache POI");
+cell.setCellComment(comment);
+wb.write(out);
+
+Sheet sheet = wb.createSheet();
+Row row = sheet.createRow(3);
+cell.setCellValue("F4");
+comment.setAuthor("Apache POI");
+cell.setCellComment(comment);
+wb.write(out);
+
+Sheet sheet = wb.createSheet();
+Row row = sheet.createRow(3);
+cell.setCellValue("F4");
+comment.setAuthor("Apache POI");
+cell.setCellComment(comment);
+wb.write(out);
+

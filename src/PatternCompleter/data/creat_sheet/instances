@@ -1,0 +1,81 @@
+Sheet sheet1 = wb.createSheet("new sheet");
+String safeName = WorkbookUtil.createSafeSheetName("[O'Brien's sales*?]");
+wb.write(fileOut);
+fileOut.close();
+
+Sheet sheet1 = wb.createSheet("new sheet");
+String safeName = WorkbookUtil.createSafeSheetName("[O'Brien's sales*?]");
+wb.write(os);
+os.close();
+
+Sheet sheet1 = wb.createSheet("new sheet");
+String safeName = WorkbookUtil.createSafeSheetName("[O'Brien's sales*?]");
+wb.write(fileOut);
+fileOut.close();
+
+Sheet sheet1 = wb.createSheet("new sheet");
+String safeName = WorkbookUtil.createSafeSheetName("[O'Brien's sales*?]");
+wb.write(fileOut);
+fileOut.close();
+
+Sheet sheet1 = wb.createSheet("new sheet");
+String safeName = WorkbookUtil.createSafeSheetName("[O'Brien's sales*?]");
+wb.write(fileOut);
+fileOut.close();
+
+Sheet sheet1 = wb.createSheet("第1个 sheet");
+String safeName = WorkbookUtil.createSafeSheetName("[Waylau's Blog*?]");
+wb.write(fileOut);
+fileOut.close();
+
+Sheet sheet1 = wb.createSheet("sheet1");
+String safeName = WorkbookUtil.createSafeSheetName("test?*");
+wb.write(fileOut);
+fileOut.close();
+
+Sheet sheet1 = wb.createSheet("new sheet");
+String safeName = WorkbookUtil.createSafeSheetName("[O'Brien's sales*?]");
+wb.write(fileOut);
+fileOut.close();
+
+Sheet sheet1 = wb.createSheet("new sheet");
+String safeName = WorkbookUtil.createSafeSheetName(// returns
+"[O'Brien's sales*?]");
+wb.write(fileOut);
+fileOut.close();
+
+Sheet sheet1 = wb.createSheet("new sheet");
+String safeName = WorkbookUtil.createSafeSheetName("[O'Brien's sales*?]");
+wb.write(fileOut);
+fileOut.close();
+
+Sheet sheet1 = wb.createSheet("new sheet");
+String safeName = WorkbookUtil.createSafeSheetName("[O'Brien's sales*?]");
+wb.write(fileOut);
+fileOut.close();
+
+Sheet sheet1 = wb.createSheet("new sheet");
+String safeName = WorkbookUtil.createSafeSheetName("[O'Brien's sales*?]");
+wb.write(fileOut);
+fileOut.close();
+
+Sheet sheet1 = wb.createSheet("new sheet");
+String safeName = WorkbookUtil.createSafeSheetName("[O'Brien's sales*?]");
+wb.write(fileOut);
+fileOut.close();
+
+Sheet sheet1 = wb.createSheet("new sheet");
+String safeName = WorkbookUtil.createSafeSheetName("[O'Brien's sales*?]");
+wb.write(fileOut);
+fileOut.close();
+
+Sheet sheet = wb.createSheet("new sheet");
+String safeName = WorkbookUtil.createSafeSheetName("[O'Brien's sales*?]");
+wb.write(fileOut);
+fileOut.close();
+
+Sheet sheet1 = wb.createSheet("new sheet");
+String safeName = WorkbookUtil.createSafeSheetName("[O'Brien's sales*?]");
+wb.write(fileOut);
+fileOut.close();
+

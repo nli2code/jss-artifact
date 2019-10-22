@@ -1,0 +1,17 @@
+------------------------------------
+CellStyle style = <0>.createCellStyle();
+style.setFillForegroundColor(<1>);
+style.setFillPattern(<2>);
+<3>.setCellStyle(style);
+
+<0>  :  workbook  ( Path = new XSSFWorkbook() )  ( Type = org.apache.poi.ss.usermodel.Workbook )
+<1>  :  IndexedColors.PINK.getIndex()  ( Path = IndexedColors.PINK.getIndex() )  ( Type = short )
+<2>  :  FillPatternType.SOLID_FOREGROUND  ( Path = FillPatternType.SOLID_FOREGROUND )  ( Type = org.apache.poi.ss.usermodel.FillPatternType )
+<3>  :  cell  ( Path = workbook.createSheet().createRow().createCell() )  ( Type = org.apache.poi.ss.usermodel.Cell )
+
+setCellStyle  :  org.apache.poi.ss.usermodel.Cell.setCellStyle(org.apache.poi.ss.usermodel.CellStyle)
+setFillPattern  :  org.apache.poi.ss.usermodel.CellStyle.setFillPattern(org.apache.poi.ss.usermodel.FillPatternType)
+createCellStyle  :  org.apache.poi.ss.usermodel.Workbook.createCellStyle()
+CellStyle  :  org.apache.poi.ss.usermodel.CellStyle
+setFillForegroundColor  :  org.apache.poi.ss.usermodel.CellStyle.setFillForegroundColor(short)
+------------------------------------

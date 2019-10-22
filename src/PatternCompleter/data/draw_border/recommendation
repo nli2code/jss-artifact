@@ -1,0 +1,14 @@
+------------------------------------
+<0>.setBorderBottom(<1>);
+<0>.setBorderLeft(<1>);
+<0>.setBorderRight(<1>);
+<0>.setBorderTop(<1>);
+
+<0>  :  style1  ( Path = new XSSFWorkbook().createCellStyle() )  ( Type = org.apache.poi.xssf.usermodel.XSSFCellStyle )
+<1>  :  BorderStyle.THIN  ( Path = BorderStyle.THIN )  ( Type = org.apache.poi.ss.usermodel.BorderStyle )
+
+setBorderTop  :  org.apache.poi.xssf.usermodel.XSSFCellStyle.setBorderTop(org.apache.poi.ss.usermodel.BorderStyle)
+setBorderLeft  :  org.apache.poi.xssf.usermodel.XSSFCellStyle.setBorderLeft(org.apache.poi.ss.usermodel.BorderStyle)
+setBorderBottom  :  org.apache.poi.xssf.usermodel.XSSFCellStyle.setBorderBottom(org.apache.poi.ss.usermodel.BorderStyle)
+setBorderRight  :  org.apache.poi.xssf.usermodel.XSSFCellStyle.setBorderRight(org.apache.poi.ss.usermodel.BorderStyle)
+------------------------------------

@@ -1,0 +1,25 @@
+------------------------------------
+Sheet sheet = <0>.createSheet();
+Row row = sheet.createRow(<1>);
+<2>.setCellValue(<3>);
+<4>.setAuthor(<5>);
+<2>.setCellComment(<4>);
+<0>.write(<6>);
+
+<0>  :  wb  ( Path = new XSSFWorkbook() )  ( Type = org.apache.poi.ss.usermodel.Workbook )
+<1>  :  3  ( Path = 3 )  ( Type = int )
+<2>  :  cell  ( Path = new XSSFWorkbook().createSheet().createRow().createCell() )  ( Type = org.apache.poi.ss.usermodel.Cell )
+<3>  :  "F4"  ( Path = "F4" )  ( Type = java.lang.String )
+<4>  :  comment  ( Path = new XSSFWorkbook().createSheet().createDrawingPatriarch().createCellComment() )  ( Type = org.apache.poi.ss.usermodel.Comment )
+<5>  :  "Apache POI"  ( Path = "Apache POI" )  ( Type = java.lang.String )
+<6>  :  out  ( Path = new FileOutputStream(FILE_NAME) )  ( Type = java.io.OutputStream )
+
+createRow  :  org.apache.poi.ss.usermodel.Sheet.createRow(int)
+setAuthor  :  org.apache.poi.ss.usermodel.Comment.setAuthor(java.lang.String)
+setCellComment  :  org.apache.poi.ss.usermodel.Cell.setCellComment(org.apache.poi.ss.usermodel.Comment)
+createSheet  :  org.apache.poi.ss.usermodel.Workbook.createSheet()
+Row  :  Row
+write  :  org.apache.poi.ss.usermodel.Workbook.write(java.io.OutputStream)
+Sheet  :  Sheet
+setCellValue  :  org.apache.poi.ss.usermodel.Cell.setCellValue(java.lang.String)
+------------------------------------

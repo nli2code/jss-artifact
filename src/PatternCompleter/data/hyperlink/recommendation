@@ -1,0 +1,21 @@
+------------------------------------
+CreationHelper createHelper = <0>.getCreationHelper();
+Hyperlink link = createHelper.createHyperlink(<1>);
+<2>.setHyperlink(link);
+<2>.setCellStyle(<3>);
+<0>.write(<4>);
+
+<0>  :  wb  ( Path = new XSSFWorkbook() )  ( Type = org.apache.poi.ss.usermodel.Workbook )
+<1>  :  HyperlinkType.URL  ( Path = HyperlinkType.URL )  ( Type = org.apache.poi.common.usermodel.HyperlinkType )
+<2>  :  cell  ( Path = Cell )  ( Type = org.apache.poi.ss.usermodel.Cell )
+<3>  :  hlink_style  ( Path = new XSSFWorkbook().createCellStyle() )  ( Type = org.apache.poi.ss.usermodel.CellStyle )
+<4>  :  out  ( Path = new FileOutputStream("hyperinks.xlsx") )  ( Type = java.io.OutputStream )
+
+setCellStyle  :  org.apache.poi.ss.usermodel.Cell.setCellStyle(org.apache.poi.ss.usermodel.CellStyle)
+getCreationHelper  :  org.apache.poi.ss.usermodel.Workbook.getCreationHelper()
+createHyperlink  :  org.apache.poi.ss.usermodel.CreationHelper.createHyperlink(org.apache.poi.common.usermodel.HyperlinkType)
+setHyperlink  :  org.apache.poi.ss.usermodel.Cell.setHyperlink(org.apache.poi.ss.usermodel.Hyperlink)
+CreationHelper  :  CreationHelper
+Hyperlink  :  Hyperlink
+write  :  org.apache.poi.ss.usermodel.Workbook.write(java.io.OutputStream)
+------------------------------------

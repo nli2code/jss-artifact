@@ -1,0 +1,66 @@
+CreationHelper createHelper = wb.getCreationHelper();
+Hyperlink link = createHelper.createHyperlink(HyperlinkType.URL);
+cell.setHyperlink(link);
+cell.setCellStyle(hlink_style);
+wb.write(out);
+
+CreationHelper createHelper = wb.getCreationHelper();
+Hyperlink link = createHelper.createHyperlink(HyperlinkType.URL);
+cell.setHyperlink(link);
+cell.setCellStyle(hlink_style);
+wb.write(out);
+
+CreationHelper createHelper = wb.getCreationHelper();
+Hyperlink link = createHelper.createHyperlink(HyperlinkType.URL);
+cell.setHyperlink(link);
+cell.setCellStyle(hlink_style);
+wb.write(out);
+
+CreationHelper createHelper = wb.getCreationHelper();
+Hyperlink link = createHelper.createHyperlink(HyperlinkType.URL);
+cell.setHyperlink(link);
+cell.setCellStyle(hlink_style);
+wb.write(out);
+
+CreationHelper createHelper = wb.getCreationHelper();
+Hyperlink link = createHelper.createHyperlink(HyperlinkType.URL);
+cell.setHyperlink(link);
+cell.setCellStyle(hlink_style);
+wb.write(out);
+
+CreationHelper createHelper = wb.getCreationHelper();
+Hyperlink link = createHelper.createHyperlink(HyperlinkType.URL);
+cell.setHyperlink(link);
+cell.setCellStyle(hlink_style);
+wb.write(out);
+
+CreationHelper createHelper = wb.getCreationHelper();
+Hyperlink link = createHelper.createHyperlink(HyperlinkType.URL);
+cell.setHyperlink(link);
+cell.setCellStyle(hlink_style);
+wb.write(out);
+
+CreationHelper createHelper = wb.getCreationHelper();
+Hyperlink link = createHelper.createHyperlink(HyperlinkType.URL);
+cell.setHyperlink(link);
+cell.setCellStyle(hlink_style);
+wb.write(out);
+
+CreationHelper createHelper = wb.getCreationHelper();
+Hyperlink link = createHelper.createHyperlink(HyperlinkType.URL);
+cell.setHyperlink(link);
+cell.setCellStyle(hlink_style);
+wb.write(out);
+
+CreationHelper createHelper = wb.getCreationHelper();
+Hyperlink link = createHelper.createHyperlink(HyperlinkType.URL);
+cell.setHyperlink(link);
+cell.setCellStyle(hlink_style);
+wb.write(out);
+
+CreationHelper createHelper = wb.getCreationHelper();
+Hyperlink link = createHelper.createHyperlink(HyperlinkType.URL);
+cell.setHyperlink(link);
+cell.setCellStyle(hlink_style);
+wb.write(out);
+

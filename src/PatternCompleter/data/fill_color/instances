@@ -1,0 +1,800 @@
+CellStyle style = wb.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = wb.createCellStyle();
+style.setFillForegroundColor(IndexedColors.ORANGE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style1 = wb.createCellStyle();
+style1.setFillForegroundColor(IndexedColors.PINK.getIndex());
+style1.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell1.setCellStyle(style1);
+
+CellStyle style1 = wb.createCellStyle();
+style1.setFillForegroundColor(IndexedColors.GREEN.getIndex());
+style1.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell1.setCellStyle(style1);
+
+CellStyle style2 = wb.createCellStyle();
+style2.setFillForegroundColor(IndexedColors.RED.getIndex());
+style2.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell2.setCellStyle(style2);
+
+CellStyle style2 = wb.createCellStyle();
+style2.setFillForegroundColor(IndexedColors.ORANGE.getIndex());
+style2.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell2.setCellStyle(style2);
+
+CellStyle style3 = wb.createCellStyle();
+style3.setFillForegroundColor(IndexedColors.AQUA.getIndex());
+style3.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell3.setCellStyle(style3);
+
+CellStyle style3 = wb.createCellStyle();
+style3.setFillForegroundColor(IndexedColors.PINK.getIndex());
+style3.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell3.setCellStyle(style3);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.AUTOMATIC.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.BLUE_GREY.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.BRIGHT_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.BROWN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.CORAL.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.CORNFLOWER_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_RED.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_TEAL.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_YELLOW.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GOLD.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREY_25_PERCENT.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREY_40_PERCENT.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREY_50_PERCENT.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREY_80_PERCENT.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.INDIGO.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LAVENDER.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LEMON_CHIFFON.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LEMON_CHIFFON.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_CORNFLOWER_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_ORANGE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_TURQUOISE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_YELLOW.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIME.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.MAROON.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.OLIVE_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.ORANGE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.ORCHID.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.PALE_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.PINK.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.PLUM.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.RED.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.ROSE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.ROYAL_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.SEA_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.SKY_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.TAN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.TEAL.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.TURQUOISE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.VIOLET.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.WHITE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.YELLOW.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.AUTOMATIC.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.BLUE_GREY.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.BRIGHT_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.BROWN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.CORAL.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.CORNFLOWER_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_RED.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_TEAL.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_YELLOW.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GOLD.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREY_25_PERCENT.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREY_40_PERCENT.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREY_50_PERCENT.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREY_80_PERCENT.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.INDIGO.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LAVENDER.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LEMON_CHIFFON.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LEMON_CHIFFON.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_CORNFLOWER_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_ORANGE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_TURQUOISE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_YELLOW.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIME.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.MAROON.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.OLIVE_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.ORANGE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.ORCHID.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.PALE_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.PINK.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.PLUM.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.RED.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.ROSE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.ROYAL_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.SEA_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.SKY_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.TAN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.TEAL.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.TURQUOISE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.VIOLET.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.WHITE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.YELLOW.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.AUTOMATIC.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.BLUE_GREY.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.BRIGHT_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.BROWN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.CORAL.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.CORNFLOWER_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_RED.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_TEAL.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.DARK_YELLOW.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GOLD.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREY_25_PERCENT.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREY_40_PERCENT.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREY_50_PERCENT.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREY_80_PERCENT.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.INDIGO.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LAVENDER.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LEMON_CHIFFON.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LEMON_CHIFFON.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_CORNFLOWER_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_ORANGE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_TURQUOISE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIGHT_YELLOW.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.LIME.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.MAROON.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.OLIVE_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.ORANGE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.ORCHID.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.PALE_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.PINK.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.PLUM.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.RED.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.ROSE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.ROYAL_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.SEA_GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.SKY_BLUE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.TAN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.TEAL.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.TURQUOISE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.VIOLET.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.WHITE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = workbook.createCellStyle();
+style.setFillForegroundColor(IndexedColors.YELLOW.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = wb.createCellStyle();
+style.setFillForegroundColor(IndexedColors.GREEN.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style = wb.createCellStyle();
+style.setFillForegroundColor(IndexedColors.ORANGE.getIndex());
+style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell.setCellStyle(style);
+
+CellStyle style1 = wb.createCellStyle();
+style1.setFillForegroundColor(IndexedColors.PINK.getIndex());
+style1.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell1.setCellStyle(style1);
+
+CellStyle style1 = wb.createCellStyle();
+style1.setFillForegroundColor(IndexedColors.GREEN.getIndex());
+style1.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell1.setCellStyle(style1);
+
+CellStyle style2 = wb.createCellStyle();
+style2.setFillForegroundColor(IndexedColors.RED.getIndex());
+style2.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell2.setCellStyle(style2);
+
+CellStyle style2 = wb.createCellStyle();
+style2.setFillForegroundColor(IndexedColors.ORANGE.getIndex());
+style2.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell2.setCellStyle(style2);
+
+CellStyle style3 = wb.createCellStyle();
+style3.setFillForegroundColor(IndexedColors.AQUA.getIndex());
+style3.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell3.setCellStyle(style3);
+
+CellStyle style3 = wb.createCellStyle();
+style3.setFillForegroundColor(IndexedColors.PINK.getIndex());
+style3.setFillPattern(FillPatternType.SOLID_FOREGROUND);
+cell3.setCellStyle(style3);
+

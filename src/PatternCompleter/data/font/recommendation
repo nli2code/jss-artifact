@@ -1,0 +1,17 @@
+------------------------------------
+HSSFFont font = <0>.createFont();
+font.setFontName(<1>);
+font.setFontHeight(<2>);
+<3>.setFont(font);
+
+<0>  :  wb  ( Path = HSSFWorkbook )  ( Type = org.apache.poi.hssf.usermodel.HSSFWorkbook )
+<1>  :  "宋体"  ( Path = "宋体" )  ( Type = java.lang.String )
+<2>  :  (short) 200  ( Path = (short) 200 )  ( Type = short )
+<3>  :  cellStyle  ( Path = getBaseStyle() )  ( Type = org.apache.poi.hssf.usermodel.HSSFCellStyle )
+
+setFontName  :  org.apache.poi.hssf.usermodel.HSSFFont.setFontName(java.lang.String)
+setFont  :  org.apache.poi.hssf.usermodel.HSSFCellStyle.setFont(org.apache.poi.hssf.usermodel.HSSFFont)
+setFontHeight  :  org.apache.poi.hssf.usermodel.HSSFFont.setFontHeight(short)
+HSSFFont  :  HSSFFont
+createFont  :  org.apache.poi.hssf.usermodel.HSSFWorkbook.createFont()
+------------------------------------

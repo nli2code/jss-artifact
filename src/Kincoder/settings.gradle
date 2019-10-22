@@ -1,0 +1,9 @@
+rootProject.name = 'kincoder'
+
+include 'common'
+include 'core'
+include 'knowledge-graph'
+include 'knowledge-graph-builder'
+include 'kincoder-cmd'
+include 'pattern'
+include 'pattern-miner'
