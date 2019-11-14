@@ -17,7 +17,7 @@ Each directory contains a simple `README.md` file to help you install and execut
 We developed tools in different IDEs, they are:
 
 1. `tool/mps`: a Jetbrains MPS plugin
-2. `http://nli2code.cn`: a web editor (domain name is on the way)
+2. `http://nli2code.cn`: a web editor
 
 If you are not familiar with MPS, you can go to the [official website](https://www.jetbrains.com/mps/) for reference.
 
