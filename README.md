@@ -1,5 +1,5 @@
 # jss-nli2code-artifact
-Implementation for JSS submission `Generating Natural Language Interface for Library Reuse`
+Implementation for JSS submission `From API to NLI: A New Interface for Library Reuse`
 
 **NLI2Code** is an abstract framework promoted in the paper which is designed to help developers reuse existing libraries.
 We instantiate the framework and this repository contains source code, developed tools and user study materials mentioned in the paper.
@@ -14,7 +14,7 @@ We instantiate the framework and this repository contains source code, developed
 Each directory contains a simple `README.md` file to help you install and execute the demo.
 
 ## tool
-We developed tools in different IDEs, they are:
+We developed tools for two environments, they are:
 
 1. `tool/mps`: a Jetbrains MPS plugin
 2. `http://nli2code.cn`: a web editor
