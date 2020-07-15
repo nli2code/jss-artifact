@@ -1,5 +1,20 @@
 # jss-nli2code-artifact
-Implementation for JSS submission `From API to NLI: A New Interface for Library Reuse`
+Implementation for paper `From API to NLI: A New Interface for Library Reuse` , which is published in Journal of Systems and Software (JSS), vol.169.
+
+Citation information:
+```
+@article{SHEN2020110728,
+title = "From API to NLI: A new interface for library reuse",
+journal = "Journal of Systems and Software",
+volume = "169",
+pages = "110728",
+year = "2020",
+issn = "0164-1212",
+doi = "https://doi.org/10.1016/j.jss.2020.110728",
+url = "http://www.sciencedirect.com/science/article/pii/S016412122030162X",
+author = "Qi Shen and Shijun Wu and Yanzhen Zou and Zixiao Zhu and Bing Xie"
+}
+```
 
 **NLI2Code** is an abstract framework promoted in the paper which is designed to help developers reuse existing libraries.
 We instantiate the framework and this repository contains source code, developed tools and user study materials mentioned in the paper.
